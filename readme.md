@@ -9,12 +9,12 @@ A simple library for performing text search and manipulation in JavaScript.
 You can install this package using npm:
 
 ```sh
-npm install searchengine
+npm install @basha_coder/searchengine
 ```
 
 ## Usage
 ```js
-const { search, removediactritics } = require('searchengine');
+const { search, removediactritics } = require('@basha_coder/searchengine');
 
 const list = ['example term 1', 'example term 2', 'example term 3'];
 const term = 'example';
